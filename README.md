@@ -125,13 +125,6 @@ Se encontrar algum problema ou tiver dúvidas:
 2. Confira se digitou o endereço correto no navegador
 3. Certifique-se de que preencheu os dados corretamente
 
-## 🔜 Próximas Melhorias
-
-- [ ] Salvar tarefas em um banco de dados
-- [ ] Adicionar sistema de login
-- [ ] Adicionar categorias para tarefas
-- [ ] Permitir definir prioridades
-
 ## 📚 Tecnologias Utilizadas
 
 - Python 3.x
@@ -145,10 +138,3 @@ Você pode testar a API usando ferramentas como:
 - Postman
 - cURL
 - Insomnia
-
-## Próximos Passos
-
-- [ ] Implementar persistência em banco de dados
-- [ ] Adicionar autenticação de usuários
-- [ ] Implementar testes automatizados
-- [ ] Adicionar documentação Swagger/OpenAPI 
